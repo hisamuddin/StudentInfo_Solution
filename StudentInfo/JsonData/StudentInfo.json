@@ -1,0 +1,43 @@
+{
+  "total": "10",
+  "page": "1",
+  "records": "78",
+  "rows": [
+    {
+      "id": 1,
+      "comment": null,
+      "FirstName": "Contact A",
+      "LastName": "A",
+      "actionSet": [
+        {
+          "actionID": 1,
+          "actionDueDate": "2012-12-08",
+          "actionNote": "Action 1"
+        },
+        {
+          "actionID": 2,
+          "actionDueDate": "2012-12-09",
+          "actionNote": "Action 2"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "comment": null,
+      "FirstName": "Contact B",
+      "LastName": "B",
+      "actionSet": [
+        {
+          "actionID": 3,
+          "actionDueDate": "2012-12-11",
+          "actionNote": "Action 3"
+        },
+        {
+          "actionID": 4,
+          "actionDueDate": "2012-12-10",
+          "actionNote": "Action 4"
+        }
+      ]
+    }
+  ]
+}
